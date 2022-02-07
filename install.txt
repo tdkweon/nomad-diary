@@ -1,0 +1,11 @@
+1. 
+npx create-react-native-app nomad-diary --use-npm
+
+2.
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+MAC: npx pod-install ios
+npm install @react-navigation/native-stack
+
+3. 참조 https://reactnavigation.org/docs/getting-started/
+
